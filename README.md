@@ -60,6 +60,7 @@
 
 # Badges
 * You can show badges with simple as images. Ex. 
+
 [![Build Status](https://travis-ci.org/dwyl/learn-tdd.svg)](https://travis-ci.org/dwyl/learn-tdd)
 [![codecov.io](https://codecov.io/github/dwyl/learn-tdd/coverage.svg?branch=master)](https://codecov.io/github/dwyl/learn-tdd?branch=master)
 [![Code Climate](https://codeclimate.com/github/dwyl/learn-tdd/badges/gpa.svg)](https://codeclimate.com/github/dwyl/learn-tdd)
